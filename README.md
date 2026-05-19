@@ -32,4 +32,5 @@
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashcodes07&show_icons=true&theme=radical)
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashcodes07&show_icons=true&theme=radical)
