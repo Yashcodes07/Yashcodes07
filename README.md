@@ -4,17 +4,17 @@
 
 ---
 
-## 🧑 About Me
-- 🌱 I'm currently focused on mastering **Genrative AI and Data structures And Algorithm**
-- 💻 I'm also learning **Full-Stack Web Development** (MERN Stack)
-- 🤝 I'm looking to collaborate on **beginner-friendly projects**
-- 📫 How to reach me: **yashk40491@gmail.com**
-- ⚡ Fun fact: I believe `Ctrl+Z` is the most powerful tool ever created.
+##  About Me
+-  I'm currently focused on mastering **Genrative AI and Data structures And Algorithm**
+-  I'm also learning **Full-Stack Web Development** (MERN Stack)
+-  I'm looking to collaborate on **beginner-friendly projects**
+-  How to reach me: **yashk40491@gmail.com**
+-  Fun fact: I believe `Ctrl+Z` is the most powerful tool ever created.
 
 ---
 
-## 🚀 Languages and Tools
-!## 🚀 Languages and Tools
+##  Languages and Tools
+!##  Languages and Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,6 +31,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yashcodes07&theme=radical)](https://git.io/streak-stats)
