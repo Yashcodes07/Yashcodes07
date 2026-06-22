@@ -1,7 +1,6 @@
 # Hi 👋, I'm Yash 
 
-### A passionate developer and Enthusiast AI Engineer from India exploring the world of code.
-
+###AI/ML Engineer | Built NL-to-SQL Engine (LLaMA-3 + RAG) & YOLOv8 Vision System | AI Intern @ FlyRank | GSSoC ’26 | B.Tech AI & ML @ GGSIPU
 ---
 
 ##  About Me
