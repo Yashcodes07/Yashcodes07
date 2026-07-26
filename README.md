@@ -13,7 +13,7 @@ AI/ML Engineer | Built NL-to-SQL Engine (LLaMA-3 + RAG) & YOLOv8 Vision System |
 ---
 
 ##  Languages and Tools
-!##  Languages and Tools
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
