@@ -31,4 +31,4 @@ AI/ML Engineer | Built NL-to-SQL Engine (LLaMA-3 + RAG) & YOLOv8 Vision System |
 ---
 
 ##  My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yashcodes07&theme=radical)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Yashcodes07&theme=radical)](https://git.io/streak-stats)
